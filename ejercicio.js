@@ -14,4 +14,4 @@ function celsiusAKelvin(celsius) {
 let fahrenheit = celsiusAFahrenheit(celsius);
 let kelvin = celsiusAKelvin(celsius);
 
-console.log(`los grados Celsius ingresados ${celsius} °C, Convertidos a Kelvin ${kelvin}°K y Fahrenheit ${Fahrenheit}°F`);
+console.log(`los grados Celsius ingresados ${celsius} °C, Convertidos a Kelvin ${kelvin}°K y Fahrenheit ${fahrenheit}°F`);
